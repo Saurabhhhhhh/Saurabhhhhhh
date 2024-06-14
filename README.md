@@ -10,7 +10,7 @@ I am a passionate B.Tech CS student at Veer Bahadur Singh Purvanchal University,
 - Passionate about technology and aspiring to be an ML/AI engineer, I have recently completed my engineering degree in Computer Science. With expertise in Python, C, C++, and JavaScript, I am experienced in desktop application development, web development, and cloud computing.With a love for gaming, I find inspiration while developing user-friendly and innovative solutions. Let's explore possibilities together!
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,wasm)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
