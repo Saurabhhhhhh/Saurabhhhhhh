@@ -10,7 +10,7 @@ I am a passionate B.Tech CS student at Veer Bahadur Singh Purvanchal University,
 - Passionate about technology and aspiring to be an ML/AI engineer, I have recently completed my engineering degree in Computer Science. With expertise in Python, C, C++, and JavaScript, I am experienced in desktop application development, web development, and cloud computing.With a love for gaming, I find inspiration while developing user-friendly and innovative solutions. Let's explore possibilities together!
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,cpp,js,html,css,tailwind,react,php,mongodb,mysql,gcp,git)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -19,17 +19,20 @@ I am a passionate B.Tech CS student at Veer Bahadur Singh Purvanchal University,
   - Navigating through the world of React Router for seamless page transitions.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
   - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
 
  ## 🏆 Achievements
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+- 🌟 Completed the extensive 120+ hour Cloud Engineering Learning Path in Google Cloud through GDSC.
+- 🌟 Emerged victorious in Google Arcade, November 2023, earning Google Cloud badges and swag.
+- 🌟 Secured victory in the one-month Microsoft Build: Azure AI Challenge in June 2023, mastering 22
+intensive modules and showcasing expertise in Azure AI technologies.
+- 🌟Received the prestigious certificate from ISRO upon successfully completing the enriching
+“Applications of Machine Learning in Urban Studies” course.
 
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+- Connect with me on [LinkedIn](www.linkedin.com/in/ritesh2109)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
