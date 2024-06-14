@@ -32,7 +32,7 @@ intensive modules and showcasing expertise in Azure AI technologies.
 
 ## 📬 Get in Touch
 
-- Connect with me on [LinkedIn](www.linkedin.com/in/ritesh2109)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/ritesh2109/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
