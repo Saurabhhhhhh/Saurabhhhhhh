@@ -53,6 +53,6 @@ I love experimenting with:
 
 - 💼 [LinkedIn – Ritesh Kumar Verma](https://www.linkedin.com/in/ritesh2109/)
 - 🌐 Portfolio – coming soon (React-based)
-- 📧 Email – [optional: add if comfortable]
+- 📧 Email – ritesh0123verma@gmail.com
 
 Thanks for stopping by! Let’s connect and explore the world of technology together. 🚀
